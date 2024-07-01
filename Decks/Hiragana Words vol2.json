@@ -1,0 +1,532 @@
+{
+  "DeckName": "Hiragana Words vol2",
+  "LanguageCode": "ja-JP",
+  "DeckEnabled": true,
+  "Cards": [
+    {
+      "Question": "ほん",
+      "Narration": "hon",
+      "Answer": "book"
+    },
+    {
+      "Question": "じしょ",
+      "Narration": "jisho",
+      "Answer": "dictionary"
+    },
+    {
+      "Question": "てがみ",
+      "Narration": "tegami",
+      "Answer": "letter"
+    },
+    {
+      "Question": "くるま",
+      "Narration": "kuruma",
+      "Answer": "car"
+    },
+    {
+      "Question": "じてんしゃ",
+      "Narration": "jitensha",
+      "Answer": "bicycle"
+    },
+    {
+      "Question": "でんしゃ",
+      "Narration": "densha",
+      "Answer": "train"
+    },
+    {
+      "Question": "えき",
+      "Narration": "eki",
+      "Answer": "station"
+    },
+    {
+      "Question": "まち",
+      "Narration": "machi",
+      "Answer": "town"
+    },
+    {
+      "Question": "ひと",
+      "Narration": "hito",
+      "Answer": "person"
+    },
+    {
+      "Question": "いぬ",
+      "Narration": "inu",
+      "Answer": "dog"
+    },
+    {
+      "Question": "ねこ",
+      "Narration": "neko",
+      "Answer": "cat"
+    },
+    {
+      "Question": "とり",
+      "Narration": "tori",
+      "Answer": "bird"
+    },
+    {
+      "Question": "さかな",
+      "Narration": "sakana",
+      "Answer": "fish"
+    },
+    {
+      "Question": "かいもの",
+      "Narration": "kaimono",
+      "Answer": "shopping"
+    },
+    {
+      "Question": "しごと",
+      "Narration": "shigoto",
+      "Answer": "work"
+    },
+    {
+      "Question": "がっこう",
+      "Narration": "gakkou",
+      "Answer": "school"
+    },
+    {
+      "Question": "ともだち",
+      "Narration": "tomodachi",
+      "Answer": "friend"
+    },
+    {
+      "Question": "かぞく",
+      "Narration": "kazoku",
+      "Answer": "family"
+    },
+    {
+      "Question": "おんがく",
+      "Narration": "ongaku",
+      "Answer": "music"
+    },
+    {
+      "Question": "えいが",
+      "Narration": "eiga",
+      "Answer": "movie"
+    },
+    {
+      "Question": "うた",
+      "Narration": "uta",
+      "Answer": "song"
+    },
+    {
+      "Question": "おかし",
+      "Narration": "okashi",
+      "Answer": "sweets | snacks"
+    },
+    {
+      "Question": "ぎゅうにゅう",
+      "Narration": "gyuunyuu",
+      "Answer": "milk"
+    },
+    {
+      "Question": "みず",
+      "Narration": "mizu",
+      "Answer": "water"
+    },
+    {
+      "Question": "あさ",
+      "Narration": "asa",
+      "Answer": "morning"
+    },
+    {
+      "Question": "ひる",
+      "Narration": "hiru",
+      "Answer": "afternoon"
+    },
+    {
+      "Question": "よる",
+      "Narration": "yoru",
+      "Answer": "night"
+    },
+    {
+      "Question": "きょう",
+      "Narration": "kyou",
+      "Answer": "today"
+    },
+    {
+      "Question": "あした",
+      "Narration": "ashita",
+      "Answer": "tomorrow"
+    },
+    {
+      "Question": "きのう",
+      "Narration": "kinou",
+      "Answer": "yesterday"
+    },
+    {
+      "Question": "うみ",
+      "Narration": "umi",
+      "Answer": "sea"
+    },
+    {
+      "Question": "やま",
+      "Narration": "yama",
+      "Answer": "mountain"
+    },
+    {
+      "Question": "かわ",
+      "Narration": "kawa",
+      "Answer": "river"
+    },
+    {
+      "Question": "もり",
+      "Narration": "mori",
+      "Answer": "forest"
+    },
+    {
+      "Question": "はな",
+      "Narration": "hana",
+      "Answer": "flower"
+    },
+    {
+      "Question": "はる",
+      "Narration": "haru",
+      "Answer": "spring"
+    },
+    {
+      "Question": "なつ",
+      "Narration": "natsu",
+      "Answer": "summer"
+    },
+    {
+      "Question": "あき",
+      "Narration": "aki",
+      "Answer": "autumn"
+    },
+    {
+      "Question": "ふゆ",
+      "Narration": "fuyu",
+      "Answer": "winter"
+    },
+    {
+      "Question": "あお",
+      "Narration": "ao",
+      "Answer": "blue"
+    },
+    {
+      "Question": "あか",
+      "Narration": "aka",
+      "Answer": "red"
+    },
+    {
+      "Question": "しろ",
+      "Narration": "shiro",
+      "Answer": "white"
+    },
+    {
+      "Question": "くろ",
+      "Narration": "kuro",
+      "Answer": "black"
+    },
+    {
+      "Question": "きいろ",
+      "Narration": "kiiro",
+      "Answer": "yellow"
+    },
+    {
+      "Question": "みどり",
+      "Narration": "midori",
+      "Answer": "green"
+    },
+    {
+      "Question": "くつ",
+      "Narration": "kutsu",
+      "Answer": "shoes"
+    },
+    {
+      "Question": "ぼうし",
+      "Narration": "boushi",
+      "Answer": "hat"
+    },
+    {
+      "Question": "めがね",
+      "Narration": "megane",
+      "Answer": "glasses"
+    },
+    {
+      "Question": "て",
+      "Narration": "te",
+      "Answer": "hand"
+    },
+    {
+      "Question": "あし",
+      "Narration": "ashi",
+      "Answer": "foot/leg"
+    },
+    {
+      "Question": "め",
+      "Narration": "me",
+      "Answer": "eye"
+    },
+    {
+      "Question": "みみ",
+      "Narration": "mimi",
+      "Answer": "ear"
+    },
+    {
+      "Question": "はな",
+      "Narration": "hana",
+      "Answer": "nose"
+    },
+    {
+      "Question": "くち",
+      "Narration": "kuchi",
+      "Answer": "mouth"
+    },
+    {
+      "Question": "かみ",
+      "Narration": "kami",
+      "Answer": "hair"
+    },
+    {
+      "Question": "せ",
+      "Narration": "se",
+      "Answer": "height"
+    },
+    {
+      "Question": "こえ",
+      "Narration": "koe",
+      "Answer": "voice"
+    },
+    {
+      "Question": "こころ",
+      "Narration": "kokoro",
+      "Answer": "heart/mind"
+    },
+    {
+      "Question": "あたま",
+      "Narration": "atama",
+      "Answer": "head"
+    },
+    {
+      "Question": "どうぶつ",
+      "Narration": "doubutsu",
+      "Answer": "animal"
+    },
+    {
+      "Question": "こうえん",
+      "Narration": "kouen",
+      "Answer": "park"
+    },
+    {
+      "Question": "うち",
+      "Narration": "uchi",
+      "Answer": "home/house"
+    },
+    {
+      "Question": "いえ",
+      "Narration": "ie",
+      "Answer": "house"
+    },
+    {
+      "Question": "へや",
+      "Narration": "heya",
+      "Answer": "room"
+    },
+    {
+      "Question": "まど",
+      "Narration": "mado",
+      "Answer": "window"
+    },
+    {
+      "Question": "つくえ",
+      "Narration": "tsukue",
+      "Answer": "desk"
+    },
+    {
+      "Question": "いす",
+      "Narration": "isu",
+      "Answer": "chair"
+    },
+    {
+      "Question": "と",
+      "Narration": "to",
+      "Answer": "door"
+    },
+    {
+      "Question": "ゆうびんきょく",
+      "Narration": "yuubinkyoku",
+      "Answer": "post office"
+    },
+    {
+      "Question": "びょういん",
+      "Narration": "byouin",
+      "Answer": "hospital"
+    },
+    {
+      "Question": "ほんや",
+      "Narration": "honya",
+      "Answer": "bookstore"
+    },
+    {
+      "Question": "えいがかん",
+      "Narration": "eigakan",
+      "Answer": "movie theater"
+    },
+    {
+      "Question": "こうばん",
+      "Narration": "kouban",
+      "Answer": "police box"
+    },
+    {
+      "Question": "きっさてん",
+      "Narration": "kissaten",
+      "Answer": "cafe"
+    },
+    {
+      "Question": "びじゅつかん",
+      "Narration": "bijutsukan",
+      "Answer": "art museum"
+    },
+    {
+      "Question": "たべもの",
+      "Narration": "tabemono",
+      "Answer": "food"
+    },
+    {
+      "Question": "のみもの",
+      "Narration": "nomimono",
+      "Answer": "drink"
+    },
+    {
+      "Question": "さけ",
+      "Narration": "sake",
+      "Answer": "alcohol"
+    },
+    {
+      "Question": "にく",
+      "Narration": "niku",
+      "Answer": "meat"
+    },
+    {
+      "Question": "やさい",
+      "Narration": "yasai",
+      "Answer": "vegetable"
+    },
+    {
+      "Question": "くだもの",
+      "Narration": "kudamono",
+      "Answer": "fruit"
+    },
+    {
+      "Question": "りんご",
+      "Narration": "ringo",
+      "Answer": "apple"
+    },
+    {
+      "Question": "みかん",
+      "Narration": "mikan",
+      "Answer": "mandarin orange"
+    },
+    {
+      "Question": "ばなな",
+      "Narration": "banana",
+      "Answer": "banana"
+    },
+    {
+      "Question": "いちご",
+      "Narration": "ichigo",
+      "Answer": "strawberry"
+    },
+    {
+      "Question": "ぶどう",
+      "Narration": "budou",
+      "Answer": "grape"
+    },
+    {
+      "Question": "すいか",
+      "Narration": "suika",
+      "Answer": "watermelon"
+    },
+    {
+      "Question": "めろん",
+      "Narration": "meron",
+      "Answer": "melon"
+    },
+    {
+      "Question": "もも",
+      "Narration": "momo",
+      "Answer": "peach"
+    },
+    {
+      "Question": "みそ",
+      "Narration": "miso",
+      "Answer": "miso"
+    },
+    {
+      "Question": "しお",
+      "Narration": "shio",
+      "Answer": "salt"
+    },
+    {
+      "Question": "さとう",
+      "Narration": "satou",
+      "Answer": "sugar"
+    },
+    {
+      "Question": "しょうゆ",
+      "Narration": "shouyu",
+      "Answer": "soy sauce"
+    },
+    {
+      "Question": "こしょう",
+      "Narration": "koshou",
+      "Answer": "pepper"
+    },
+    {
+      "Question": "さかな",
+      "Narration": "sakana",
+      "Answer": "fish"
+    },
+    {
+      "Question": "にく",
+      "Narration": "niku",
+      "Answer": "meat"
+    },
+    {
+      "Question": "たまご",
+      "Narration": "tamago",
+      "Answer": "egg"
+    },
+    {
+      "Question": "にんじん",
+      "Narration": "ninjin",
+      "Answer": "carrot"
+    },
+    {
+      "Question": "たまねぎ",
+      "Narration": "tamanegi",
+      "Answer": "onion"
+    },
+    {
+      "Question": "じゃがいも",
+      "Narration": "jagaimo",
+      "Answer": "potato"
+    },
+    {
+      "Question": "さとう",
+      "Narration": "satou",
+      "Answer": "sugar"
+    },
+    {
+      "Question": "しお",
+      "Narration": "shio",
+      "Answer": "salt"
+    },
+    {
+      "Question": "す",
+      "Narration": "su",
+      "Answer": "vinegar"
+    },
+    {
+      "Question": "こめ",
+      "Narration": "kome",
+      "Answer": "rice"
+    },
+    {
+      "Question": "みそ",
+      "Narration": "miso",
+      "Answer": "miso"
+    }
+  ]
+}

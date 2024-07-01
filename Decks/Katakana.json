@@ -1,0 +1,218 @@
+{
+  "DeckName": "Katakana",
+  "LanguageCode": "ja-JP",
+  "DeckEnabled": false,
+  "Cards": [
+    {
+      "Question": "ア",
+      "Narration": "a",
+    },
+    {
+      "Question": "イ",
+      "Narration": "i",
+    },
+    {
+      "Question": "ウ",
+      "Narration": "u",
+    },
+    {
+      "Question": "エ",
+      "Narration": "e",
+    },
+    {
+      "Question": "オ",
+      "Narration": "o",
+    },
+    {
+      "Question": "カ",
+      "Narration": "ka",
+    },
+    {
+      "Question": "キ",
+      "Narration": "ki",
+    },
+    {
+      "Question": "ク",
+      "Narration": "ku",
+    },
+    {
+      "Question": "ケ",
+      "Narration": "ke",
+    },
+    {
+      "Question": "コ",
+      "Narration": "ko",
+    },
+    {
+      "Question": "サ",
+      "Narration": "sa",
+    },
+    {
+      "Question": "シ",
+      "Narration": "shi",
+    },
+    {
+      "Question": "ス",
+      "Narration": "su",
+    },
+    {
+      "Question": "セ",
+      "Narration": "se",
+    },
+    {
+      "Question": "ソ",
+      "Narration": "so",
+    },
+    {
+      "Question": "タ",
+      "Narration": "ta",
+    },
+    {
+      "Question": "チ",
+      "Narration": "chi",
+    },
+    {
+      "Question": "ツ",
+      "Narration": "tsu",
+    },
+    {
+      "Question": "テ",
+      "Narration": "te",
+    },
+    {
+      "Question": "ト",
+      "Narration": "to",
+
+    },
+    {
+      "Question": "ナ",
+      "Narration": "na",
+
+    },
+    {
+      "Question": "ニ",
+      "Narration": "ni",
+
+    },
+    {
+      "Question": "ヌ",
+      "Narration": "nu",
+
+    },
+    {
+      "Question": "ネ",
+      "Narration": "ne",
+
+    },
+    {
+      "Question": "ノ",
+      "Narration": "no",
+
+    },
+    {
+      "Question": "ハ",
+      "Narration": "ha",
+
+    },
+    {
+      "Question": "ヒ",
+      "Narration": "hi",
+
+    },
+    {
+      "Question": "フ",
+      "Narration": "fu",
+
+    },
+    {
+      "Question": "ヘ",
+      "Narration": "he",
+
+    },
+    {
+      "Question": "ホ",
+      "Narration": "ho",
+
+    },
+    {
+      "Question": "マ",
+      "Narration": "ma",
+
+    },
+    {
+      "Question": "ミ",
+      "Narration": "mi",
+
+    },
+    {
+      "Question": "ム",
+      "Narration": "mu",
+
+    },
+    {
+      "Question": "メ",
+      "Narration": "me",
+
+    },
+    {
+      "Question": "モ",
+      "Narration": "mo",
+
+    },
+    {
+      "Question": "ヤ",
+      "Narration": "ya",
+
+    },
+    {
+      "Question": "ユ",
+      "Narration": "yu",
+
+    },
+    {
+      "Question": "ヨ",
+      "Narration": "yo",
+
+    },
+    {
+      "Question": "ラ",
+      "Narration": "ra",
+
+    },
+    {
+      "Question": "リ",
+      "Narration": "ri",
+
+    },
+    {
+      "Question": "ル",
+      "Narration": "ru",
+
+    },
+    {
+      "Question": "レ",
+      "Narration": "re",
+
+    },
+    {
+      "Question": "ロ",
+      "Narration": "ro",
+
+    },
+    {
+      "Question": "ワ",
+      "Narration": "wa",
+
+    },
+    {
+      "Question": "ヲ",
+      "Narration": "o",
+
+    },
+    {
+      "Question": "ン",
+      "Narration": "n",
+
+    }
+  ]
+}

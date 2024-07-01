@@ -1,0 +1,27 @@
+{
+  "DeckName": "Thikr",
+  "LanguageCode": "ar-JO",
+  "DeckEnabled": true,
+  "Cards": [
+    {
+      "Question": "سبحان الله",
+      "Narration": "",
+    },
+    {
+      "Question": "الحمد لله",
+      "Narration": "",
+    },
+    {
+      "Question": "لا اله الا الله",
+      "Narration": "",
+    },
+    {
+      "Question": "الله أكبر",
+      "Narration": "",
+    },
+    {
+      "Question": "لا حول ولا قوة الا بالله",
+      "Narration": "",
+    }
+  ]
+}

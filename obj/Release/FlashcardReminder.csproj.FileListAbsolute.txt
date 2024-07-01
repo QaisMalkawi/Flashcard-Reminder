@@ -1,0 +1,29 @@
+D:\Flashcard Reminder\FlashcardReminder\bin\Release\Newtonsoft.Json.dll
+D:\Flashcard Reminder\FlashcardReminder\bin\Release\Newtonsoft.Json.xml
+D:\Flashcard Reminder\FlashcardReminder\obj\Release\FlashcardReminder.csproj.AssemblyReference.cache
+D:\Flashcard Reminder\FlashcardReminder\obj\Release\FlashcardReminder.Forms.CardsView.resources
+D:\Flashcard Reminder\FlashcardReminder\obj\Release\WindowsFormsApp1.Forms.SettingsWindow.resources
+D:\Flashcard Reminder\FlashcardReminder\obj\Release\FlashcardReminder.csproj.GenerateResource.cache
+D:\Flashcard Reminder\FlashcardReminder\obj\Release\FlashcardReminder.csproj.CoreCompileInputs.cache
+D:\Flashcard Reminder\FlashcardReminder\obj\Release\Flashcar.28E58B38.Up2Date
+D:\Flashcard Reminder\FlashcardReminder\bin\Release\FlashcardReminder.exe.config
+D:\Flashcard Reminder\FlashcardReminder\bin\Release\FlashcardReminder.exe
+D:\Flashcard Reminder\FlashcardReminder\bin\Release\FlashcardReminder.pdb
+D:\Flashcard Reminder\FlashcardReminder\obj\Release\FlashcardReminder.Properties.Resources.resources
+D:\Flashcard Reminder\FlashcardReminder\obj\Release\FlashcardReminder.exe
+D:\Flashcard Reminder\FlashcardReminder\obj\Release\FlashcardReminder.pdb
+D:\FlashcardReminder\bin\Release\FlashcardReminder.exe.config
+D:\FlashcardReminder\bin\Release\FlashcardReminder.exe
+D:\FlashcardReminder\bin\Release\FlashcardReminder.pdb
+D:\FlashcardReminder\bin\Release\Newtonsoft.Json.dll
+D:\FlashcardReminder\bin\Release\Newtonsoft.Json.xml
+D:\FlashcardReminder\obj\Release\FlashcardReminder.csproj.AssemblyReference.cache
+D:\FlashcardReminder\obj\Release\FlashcardReminder.Forms.CardsView.resources
+D:\FlashcardReminder\obj\Release\WindowsFormsApp1.Forms.SettingsWindow.resources
+D:\FlashcardReminder\obj\Release\FlashcardReminder.Properties.Resources.resources
+D:\FlashcardReminder\obj\Release\FlashcardReminder.csproj.GenerateResource.cache
+D:\FlashcardReminder\obj\Release\FlashcardReminder.csproj.CoreCompileInputs.cache
+D:\FlashcardReminder\obj\Release\Flashcar.28E58B38.Up2Date
+D:\FlashcardReminder\obj\Release\FlashcardReminder.exe
+D:\FlashcardReminder\obj\Release\FlashcardReminder.pdb
+D:\FlashcardReminder\obj\Release\FlashcardReminder.Forms.InputDialog.resources

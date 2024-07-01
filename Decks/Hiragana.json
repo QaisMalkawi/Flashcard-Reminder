@@ -1,0 +1,237 @@
+{
+  "DeckName": "Hiragana",
+  "LanguageCode": "ja-JP",
+  "DeckEnabled": true,
+  "Cards": [
+    {
+      "Question": "あ",
+      "Narration": "a",
+
+    },
+    {
+      "Question": "い",
+      "Narration": "i",
+
+    },
+    {
+      "Question": "う",
+      "Narration": "u",
+
+    },
+    {
+      "Question": "え",
+      "Narration": "e",
+
+    },
+    {
+      "Question": "お",
+      "Narration": "o",
+
+    },
+    {
+      "Question": "か",
+      "Narration": "ka",
+
+    },
+    {
+      "Question": "き",
+      "Narration": "ki",
+
+    },
+    {
+      "Question": "く",
+      "Narration": "ku",
+
+    },
+    {
+      "Question": "け",
+      "Narration": "ke",
+
+    },
+    {
+      "Question": "こ",
+      "Narration": "ko",
+
+    },
+    {
+      "Question": "さ",
+      "Narration": "sa",
+
+    },
+    {
+      "Question": "し",
+      "Narration": "shi",
+
+    },
+    {
+      "Question": "す",
+      "Narration": "su",
+
+    },
+    {
+      "Question": "せ",
+      "Narration": "se",
+
+    },
+    {
+      "Question": "そ",
+      "Narration": "so",
+
+    },
+    {
+      "Question": "た",
+      "Narration": "ta",
+
+    },
+    {
+      "Question": "ち",
+      "Narration": "chi",
+
+    },
+    {
+      "Question": "つ",
+      "Narration": "tsu",
+
+    },
+    {
+      "Question": "て",
+      "Narration": "te",
+
+    },
+    {
+      "Question": "と",
+      "Narration": "to",
+
+    },
+    {
+      "Question": "な",
+      "Narration": "na",
+
+    },
+    {
+      "Question": "に",
+      "Narration": "ni",
+
+    },
+    {
+      "Question": "ぬ",
+      "Narration": "nu",
+
+    },
+    {
+      "Question": "ね",
+      "Narration": "ne",
+
+    },
+    {
+      "Question": "の",
+      "Narration": "no",
+
+    },
+    {
+      "Question": "は",
+      "Narration": "ha",
+
+    },
+    {
+      "Question": "ひ",
+      "Narration": "hi",
+
+    },
+    {
+      "Question": "ふ",
+      "Narration": "fu",
+
+    },
+    {
+      "Question": "へ",
+      "Narration": "he",
+
+    },
+    {
+      "Question": "ほ",
+      "Narration": "ho",
+
+    },
+    {
+      "Question": "ま",
+      "Narration": "ma",
+
+    },
+    {
+      "Question": "み",
+      "Narration": "mi",
+
+    },
+    {
+      "Question": "む",
+      "Narration": "mu",
+
+    },
+    {
+      "Question": "め",
+      "Narration": "me",
+
+    },
+    {
+      "Question": "も",
+      "Narration": "mo",
+
+    },
+    {
+      "Question": "や",
+      "Narration": "ya",
+
+    },
+    {
+      "Question": "ゆ",
+      "Narration": "yu",
+
+    },
+    {
+      "Question": "よ",
+      "Narration": "yo",
+
+    },
+    {
+      "Question": "ら",
+      "Narration": "ra",
+
+    },
+    {
+      "Question": "り",
+      "Narration": "ri",
+
+    },
+    {
+      "Question": "る",
+      "Narration": "ru",
+
+    },
+    {
+      "Question": "れ",
+      "Narration": "re",
+
+    },
+    {
+      "Question": "ろ",
+      "Narration": "ro",
+
+    },
+    {
+      "Question": "わ",
+      "Narration": "wa",
+
+    },
+    {
+      "Question": "を",
+      "Narration": "o",
+
+    },
+    {
+      "Question": "ん",
+      "Narration": "n",
+
+    }
+  ]
+}

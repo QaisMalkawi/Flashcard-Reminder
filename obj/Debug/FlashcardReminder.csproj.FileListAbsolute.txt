@@ -1,0 +1,59 @@
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Flashcard Reminder\WindowsFormsApp1\obj\Debug\FlashcardReminder.csproj.AssemblyReference.cache
+D:\Flashcard Reminder\WindowsFormsApp1\obj\Debug\FlashcardReminder.Forms.CardsView.resources
+D:\Flashcard Reminder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.SettingsWindow.resources
+D:\Flashcard Reminder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Flashcard Reminder\WindowsFormsApp1\obj\Debug\FlashcardReminder.csproj.GenerateResource.cache
+D:\Flashcard Reminder\WindowsFormsApp1\obj\Debug\FlashcardReminder.csproj.CoreCompileInputs.cache
+D:\Flashcard Reminder\WindowsFormsApp1\obj\Debug\Flashcar.28E58B38.Up2Date
+D:\Flashcard Reminder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Flashcard Reminder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Flashcard Reminder\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Flashcard Reminder\FlashcardReminder\bin\Debug\Newtonsoft.Json.dll
+D:\Flashcard Reminder\FlashcardReminder\bin\Debug\Newtonsoft.Json.xml
+D:\Flashcard Reminder\FlashcardReminder\obj\Debug\FlashcardReminder.csproj.AssemblyReference.cache
+D:\Flashcard Reminder\FlashcardReminder\obj\Debug\FlashcardReminder.Forms.CardsView.resources
+D:\Flashcard Reminder\FlashcardReminder\obj\Debug\WindowsFormsApp1.Forms.SettingsWindow.resources
+D:\Flashcard Reminder\FlashcardReminder\obj\Debug\FlashcardReminder.csproj.GenerateResource.cache
+D:\Flashcard Reminder\FlashcardReminder\obj\Debug\FlashcardReminder.csproj.CoreCompileInputs.cache
+D:\Flashcard Reminder\FlashcardReminder\obj\Debug\Flashcar.28E58B38.Up2Date
+D:\Flashcard Reminder\FlashcardReminder\bin\Debug\FlashcardReminder.exe.config
+D:\Flashcard Reminder\FlashcardReminder\bin\Debug\FlashcardReminder.exe
+D:\Flashcard Reminder\FlashcardReminder\bin\Debug\FlashcardReminder.pdb
+D:\Flashcard Reminder\FlashcardReminder\obj\Debug\FlashcardReminder.Properties.Resources.resources
+D:\Flashcard Reminder\FlashcardReminder\obj\Debug\FlashcardReminder.exe
+D:\Flashcard Reminder\FlashcardReminder\obj\Debug\FlashcardReminder.pdb
+D:\FlashcardReminder\bin\Debug\FlashcardReminder.exe.config
+D:\FlashcardReminder\bin\Debug\FlashcardReminder.exe
+D:\FlashcardReminder\bin\Debug\FlashcardReminder.pdb
+D:\FlashcardReminder\bin\Debug\Newtonsoft.Json.dll
+D:\FlashcardReminder\bin\Debug\Newtonsoft.Json.xml
+D:\FlashcardReminder\obj\Debug\FlashcardReminder.csproj.AssemblyReference.cache
+D:\FlashcardReminder\obj\Debug\FlashcardReminder.Forms.CardsView.resources
+D:\FlashcardReminder\obj\Debug\WindowsFormsApp1.Forms.SettingsWindow.resources
+D:\FlashcardReminder\obj\Debug\FlashcardReminder.Properties.Resources.resources
+D:\FlashcardReminder\obj\Debug\FlashcardReminder.csproj.GenerateResource.cache
+D:\FlashcardReminder\obj\Debug\FlashcardReminder.csproj.CoreCompileInputs.cache
+D:\FlashcardReminder\obj\Debug\Flashcar.28E58B38.Up2Date
+D:\FlashcardReminder\obj\Debug\FlashcardReminder.exe
+D:\FlashcardReminder\obj\Debug\FlashcardReminder.pdb
+D:\FlashcardReminder\obj\Debug\FlashcardReminder.Forms.InputDialog.resources

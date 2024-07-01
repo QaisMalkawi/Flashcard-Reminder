@@ -1,0 +1,307 @@
+{
+  "DeckName": "Hiragana Words vol1",
+  "LanguageCode": "ja-JP",
+  "DeckEnabled": true,
+  "Cards": [
+    {
+      "Question": "あいすくりーむ",
+      "Narration": "aisukurimu",
+      "Answer": "ice cream"
+    },
+    {
+      "Question": "てれび",
+      "Narration": "terebi",
+      "Answer": "television"
+    },
+    {
+      "Question": "こんぴゅーたー",
+      "Narration": "konpyutā",
+      "Answer": "computer"
+    },
+    {
+      "Question": "れすとらん",
+      "Narration": "resutoran",
+      "Answer": "restaurant"
+    },
+    {
+      "Question": "たくしー",
+      "Narration": "takushi",
+      "Answer": "taxi"
+    },
+    {
+      "Question": "ほてる",
+      "Narration": "hoteru",
+      "Answer": "hotel"
+    },
+    {
+      "Question": "こーひー",
+      "Narration": "kohi",
+      "Answer": "coffee"
+    },
+    {
+      "Question": "ばす",
+      "Narration": "basu",
+      "Answer": "bus"
+    },
+    {
+      "Question": "ぱん",
+      "Narration": "pan",
+      "Answer": "bread"
+    },
+    {
+      "Question": "じゅーす",
+      "Narration": "jusu",
+      "Answer": "juice"
+    },
+    {
+      "Question": "げーむ",
+      "Narration": "gemu",
+      "Answer": "game"
+    },
+    {
+      "Question": "かめら",
+      "Narration": "kamera",
+      "Answer": "camera"
+    },
+    {
+      "Question": "らじお",
+      "Narration": "rajio",
+      "Answer": "radio"
+    },
+    {
+      "Question": "すまほ",
+      "Narration": "sumaho",
+      "Answer": "smartphone"
+    },
+    {
+      "Question": "さんどいっち",
+      "Narration": "sandoicchi",
+      "Answer": "sandwich"
+    },
+    {
+      "Question": "てーぶる",
+      "Narration": "teburu",
+      "Answer": "table"
+    },
+    {
+      "Question": "べっど",
+      "Narration": "beddo",
+      "Answer": "bed"
+    },
+    {
+      "Question": "しゃつ",
+      "Narration": "shatsu",
+      "Answer": "shirt"
+    },
+    {
+      "Question": "ぺん",
+      "Narration": "pen",
+      "Answer": "pen"
+    },
+    {
+      "Question": "にゅーす",
+      "Narration": "nyusu",
+      "Answer": "news"
+    },
+    {
+      "Question": "です",
+      "Narration": "desu",
+      "Answer": "is/am/are"
+    },
+    {
+      "Question": "ください",
+      "Narration": "kudasai",
+      "Answer": "please"
+    },
+    {
+      "Question": "ありがとう",
+      "Narration": "arigatou",
+      "Answer": "thank you"
+    },
+    {
+      "Question": "なんですか",
+      "Narration": "nan desu ka",
+      "Answer": "what is it?"
+    },
+    {
+      "Question": "おはよう",
+      "Narration": "ohayou",
+      "Answer": "good morning"
+    },
+    {
+      "Question": "こんにちは",
+      "Narration": "konnichiwa",
+      "Answer": "hello/good afternoon"
+    },
+    {
+      "Question": "こんばんは",
+      "Narration": "konbanwa",
+      "Answer": "good evening"
+    },
+    {
+      "Question": "さようなら",
+      "Narration": "sayounara",
+      "Answer": "goodbye"
+    },
+    {
+      "Question": "すみません",
+      "Narration": "sumimasen",
+      "Answer": "excuse me/sorry"
+    },
+    {
+      "Question": "はい",
+      "Narration": "hai",
+      "Answer": "yes"
+    },
+    {
+      "Question": "いいえ",
+      "Narration": "iie",
+      "Answer": "no"
+    },
+    {
+      "Question": "わかりません",
+      "Narration": "wakarimasen",
+      "Answer": "I don't understand"
+    },
+    {
+      "Question": "いくら",
+      "Narration": "ikura",
+      "Answer": "how much?"
+    },
+    {
+      "Question": "どこ",
+      "Narration": "doko",
+      "Answer": "where"
+    },
+    {
+      "Question": "いつ",
+      "Narration": "itsu",
+      "Answer": "when"
+    },
+    {
+      "Question": "なぜ",
+      "Narration": "naze",
+      "Answer": "why"
+    },
+    {
+      "Question": "どうして",
+      "Narration": "doushite",
+      "Answer": "why"
+    },
+    {
+      "Question": "だれ",
+      "Narration": "dare",
+      "Answer": "who"
+    },
+    {
+      "Question": "どうぞ",
+      "Narration": "douzo",
+      "Answer": "please (offering)"
+    },
+    {
+      "Question": "よろしく",
+      "Narration": "yoroshiku",
+      "Answer": "best regards"
+    },
+    {
+      "Question": "おねがいします",
+      "Narration": "onegaishimasu",
+      "Answer": "please (polite)"
+    },
+    {
+      "Question": "おいしい",
+      "Narration": "oishii",
+      "Answer": "delicious"
+    },
+    {
+      "Question": "たかい",
+      "Narration": "takai",
+      "Answer": "expensive/high"
+    },
+    {
+      "Question": "やすい",
+      "Narration": "yasui",
+      "Answer": "cheap"
+    },
+    {
+      "Question": "あつい",
+      "Narration": "atsui",
+      "Answer": "hot"
+    },
+    {
+      "Question": "さむい",
+      "Narration": "samui",
+      "Answer": "cold"
+    },
+    {
+      "Question": "すごい",
+      "Narration": "sugoi",
+      "Answer": "amazing"
+    },
+    {
+      "Question": "きれい",
+      "Narration": "kirei",
+      "Answer": "beautiful/clean"
+    },
+    {
+      "Question": "うれしい",
+      "Narration": "ureshii",
+      "Answer": "happy"
+    },
+    {
+      "Question": "かわいい",
+      "Narration": "kawaii",
+      "Answer": "cute"
+    },
+    {
+      "Question": "きたない",
+      "Narration": "kitanai",
+      "Answer": "dirty"
+    },
+    {
+      "Question": "おそい",
+      "Narration": "osoi",
+      "Answer": "slow/late"
+    },
+    {
+      "Question": "はやい",
+      "Narration": "hayai",
+      "Answer": "fast/early"
+    },
+    {
+      "Question": "あぶない",
+      "Narration": "abunai",
+      "Answer": "dangerous"
+    },
+    {
+      "Question": "たのしい",
+      "Narration": "tanoshii",
+      "Answer": "fun"
+    },
+    {
+      "Question": "さびしい",
+      "Narration": "sabishii",
+      "Answer": "lonely"
+    },
+    {
+      "Question": "たいへん",
+      "Narration": "taihen",
+      "Answer": "tough/difficult"
+    },
+    {
+      "Question": "べんり",
+      "Narration": "benri",
+      "Answer": "convenient"
+    },
+    {
+      "Question": "ふべん",
+      "Narration": "fuben",
+      "Answer": "inconvenient"
+    },
+    {
+      "Question": "すごく",
+      "Narration": "sugoku",
+      "Answer": "very/extremely"
+    }
+  ]
+}

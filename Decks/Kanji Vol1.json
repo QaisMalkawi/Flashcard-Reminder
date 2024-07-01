@@ -1,0 +1,692 @@
+{
+  "DeckName": "Kanji Vol1",
+  "LanguageCode": "ja-JP",
+  "DeckEnabled": false,
+  "Cards": [
+    {
+      "Question": "一",
+      "Narration": "ichi",
+      "Answer": "one"
+    },
+    {
+      "Question": "二",
+      "Narration": "ni",
+      "Answer": "two"
+    },
+    {
+      "Question": "三",
+      "Narration": "san",
+      "Answer": "three"
+    },
+    {
+      "Question": "四",
+      "Narration": "shi",
+      "Answer": "four"
+    },
+    {
+      "Question": "五",
+      "Narration": "go",
+      "Answer": "five"
+    },
+    {
+      "Question": "六",
+      "Narration": "roku",
+      "Answer": "six"
+    },
+    {
+      "Question": "七",
+      "Narration": "shichi",
+      "Answer": "seven"
+    },
+    {
+      "Question": "八",
+      "Narration": "hachi",
+      "Answer": "eight"
+    },
+    {
+      "Question": "九",
+      "Narration": "kyuu",
+      "Answer": "nine"
+    },
+    {
+      "Question": "十",
+      "Narration": "juu",
+      "Answer": "ten"
+    },
+    {
+      "Question": "百",
+      "Narration": "hyaku",
+      "Answer": "hundred"
+    },
+    {
+      "Question": "千",
+      "Narration": "sen",
+      "Answer": "thousand"
+    },
+    {
+      "Question": "万",
+      "Narration": "man",
+      "Answer": "ten thousand"
+    },
+    {
+      "Question": "白",
+      "Narration": "shiro",
+      "Answer": "white"
+    },
+    {
+      "Question": "黒",
+      "Narration": "kuro",
+      "Answer": "black"
+    },
+    {
+      "Question": "赤",
+      "Narration": "aka",
+      "Answer": "red"
+    },
+    {
+      "Question": "青",
+      "Narration": "ao",
+      "Answer": "blue"
+    },
+    {
+      "Question": "黄",
+      "Narration": "ki",
+      "Answer": "yellow"
+    },
+    {
+      "Question": "上",
+      "Narration": "ue",
+      "Answer": "above | top"
+    },
+    {
+      "Question": "下",
+      "Narration": "shita",
+      "Answer": "below | bottom"
+    },
+    {
+      "Question": "左",
+      "Narration": "hidari",
+      "Answer": "left"
+    },
+    {
+      "Question": "右",
+      "Narration": "migi",
+      "Answer": "right"
+    },
+    {
+      "Question": "前",
+      "Narration": "mae",
+      "Answer": "before | front"
+    },
+    {
+      "Question": "後",
+      "Narration": "go",
+      "Answer": "after | back"
+    },
+    {
+      "Question": "東",
+      "Narration": "higashi",
+      "Answer": "east"
+    },
+    {
+      "Question": "西",
+      "Narration": "nishi",
+      "Answer": "west"
+    },
+    {
+      "Question": "南",
+      "Narration": "minami",
+      "Answer": "south"
+    },
+    {
+      "Question": "北",
+      "Narration": "kita",
+      "Answer": "north"
+    },
+    {
+      "Question": "父",
+      "Narration": "chichi",
+      "Answer": "father"
+    },
+    {
+      "Question": "母",
+      "Narration": "haha",
+      "Answer": "mother"
+    },
+    {
+      "Question": "男",
+      "Narration": "otoko",
+      "Answer": "man | male"
+    },
+    {
+      "Question": "女",
+      "Narration": "onna",
+      "Answer": "woman | female"
+    },
+    {
+      "Question": "友",
+      "Narration": "tomo",
+      "Answer": "friend"
+    },
+    {
+      "Question": "人",
+      "Narration": "hito",
+      "Answer": "person | people"
+    },
+    {
+      "Question": "子",
+      "Narration": "ko",
+      "Answer": "child | offspring"
+    },
+    {
+      "Question": "日",
+      "Narration": "nichi",
+      "Answer": "sun | day"
+    },
+    {
+      "Question": "月",
+      "Narration": "tsuki",
+      "Answer": "month | moon"
+    },
+    {
+      "Question": "火",
+      "Narration": "hi",
+      "Answer": "fire"
+    },
+    {
+      "Question": "水",
+      "Narration": "mizu",
+      "Answer": "water"
+    },
+    {
+      "Question": "木",
+      "Narration": "ki",
+      "Answer": "tree | wood"
+    },
+    {
+      "Question": "金",
+      "Narration": "kin",
+      "Answer": "gold"
+    },
+    {
+      "Question": "土",
+      "Narration": "tsuchi",
+      "Answer": "earth | ground"
+    },
+    {
+      "Question": "天",
+      "Narration": "ten",
+      "Answer": "heaven | sky"
+    },
+    {
+      "Question": "国",
+      "Narration": "kuni",
+      "Answer": "country | nation"
+    },
+    {
+      "Question": "本",
+      "Narration": "hon",
+      "Answer": "book"
+    },
+    {
+      "Question": "間",
+      "Narration": "kan",
+      "Answer": "interval | space"
+    },
+    {
+      "Question": "年",
+      "Narration": "nen",
+      "Answer": "year"
+    },
+    {
+      "Question": "時",
+      "Narration": "ji",
+      "Answer": "time | hour"
+    },
+    {
+      "Question": "今",
+      "Narration": "ima",
+      "Answer": "now | present"
+    },
+    {
+      "Question": "先",
+      "Narration": "saki",
+      "Answer": "previous | ahead"
+    },
+    {
+      "Question": "来",
+      "Narration": "kuru",
+      "Answer": "come | next"
+    },
+    {
+      "Question": "出",
+      "Narration": "deru",
+      "Answer": "exit | leave"
+    },
+    {
+      "Question": "入",
+      "Narration": "iri",
+      "Answer": "enter | insert"
+    },
+    {
+      "Question": "行",
+      "Narration": "iku",
+      "Answer": "go | line"
+    },
+    {
+      "Question": "見",
+      "Narration": "miru",
+      "Answer": "see | look"
+    },
+    {
+      "Question": "聞",
+      "Narration": "kiku",
+      "Answer": "listen | ask"
+    },
+    {
+      "Question": "話",
+      "Narration": "hanasu",
+      "Answer": "talk | story"
+    },
+    {
+      "Question": "読",
+      "Narration": "yomu",
+      "Answer": "read | study"
+    },
+    {
+      "Question": "書",
+      "Narration": "kaku",
+      "Answer": "write"
+    },
+    {
+      "Question": "食",
+      "Narration": "taberu",
+      "Answer": "eat | meal"
+    },
+    {
+      "Question": "車",
+      "Narration": "kuruma",
+      "Answer": "car | vehicle"
+    },
+    {
+      "Question": "校",
+      "Narration": "kou",
+      "Answer": "school | examination"
+    },
+    {
+      "Question": "学",
+      "Narration": "gaku",
+      "Answer": "study | learning"
+    },
+    {
+      "Question": "高",
+      "Narration": "takai",
+      "Answer": "high | tall"
+    },
+    {
+      "Question": "円",
+      "Narration": "en",
+      "Answer": "yen | circle"
+    },
+    {
+      "Question": "小",
+      "Narration": "shou",
+      "Answer": "small | little"
+    },
+    {
+      "Question": "大",
+      "Narration": "dai",
+      "Answer": "big | large"
+    },
+    {
+      "Question": "長",
+      "Narration": "chou",
+      "Answer": "long | leader"
+    },
+    {
+      "Question": "半",
+      "Narration": "han",
+      "Answer": "half | semi"
+    },
+    {
+      "Question": "何",
+      "Narration": "nani",
+      "Answer": "what | how many"
+    },
+    {
+      "Question": "毎",
+      "Narration": "mai",
+      "Answer": "every | each"
+    },
+    {
+      "Question": "気",
+      "Narration": "ki",
+      "Answer": "spirit | mind"
+    },
+    {
+      "Question": "名",
+      "Narration": "na",
+      "Answer": "name | famous"
+    },
+    {
+      "Question": "山",
+      "Narration": "yama",
+      "Answer": "mountain"
+    },
+    {
+      "Question": "川",
+      "Narration": "kawa",
+      "Answer": "river | stream"
+    },
+    {
+      "Question": "草",
+      "Narration": "kusa",
+      "Answer": "grass"
+    },
+    {
+      "Question": "花",
+      "Narration": "hana",
+      "Answer": "flower"
+    },
+    {
+      "Question": "虫",
+      "Narration": "mushi",
+      "Answer": "insect"
+    },
+    {
+      "Question": "鳥",
+      "Narration": "tori",
+      "Answer": "bird"
+    },
+    {
+      "Question": "犬",
+      "Narration": "inu",
+      "Answer": "dog"
+    },
+    {
+      "Question": "猫",
+      "Narration": "neko",
+      "Answer": "cat"
+    },
+    {
+      "Question": "魚",
+      "Narration": "sakana",
+      "Answer": "fish"
+    },
+    {
+      "Question": "米",
+      "Narration": "kome",
+      "Answer": "rice"
+    },
+    {
+      "Question": "水",
+      "Narration": "mizu",
+      "Answer": "water"
+    },
+    {
+      "Question": "茶",
+      "Narration": "cha",
+      "Answer": "tea"
+    },
+    {
+      "Question": "酒",
+      "Narration": "sake",
+      "Answer": "alcohol | sake"
+    },
+    {
+      "Question": "飯",
+      "Narration": "meshi",
+      "Answer": "meal | cooked rice"
+    },
+    {
+      "Question": "肉",
+      "Narration": "niku",
+      "Answer": "meat"
+    },
+    {
+      "Question": "豚",
+      "Narration": "buta",
+      "Answer": "pork"
+    },
+    {
+      "Question": "鳥",
+      "Narration": "tori",
+      "Answer": "bird"
+    },
+    {
+      "Question": "魚",
+      "Narration": "sakana",
+      "Answer": "fish"
+    },
+    {
+      "Question": "牛",
+      "Narration": "ushi",
+      "Answer": "cow"
+    },
+    {
+      "Question": "馬",
+      "Narration": "uma",
+      "Answer": "horse"
+    },
+    {
+      "Question": "鳥居",
+      "Narration": "torii",
+      "Answer": "Shinto shrine gate"
+    },
+    {
+      "Question": "鳥類",
+      "Narration": "chourui",
+      "Answer": "bird"
+    },
+    {
+      "Question": "牛肉",
+      "Narration": "gyuniku",
+      "Answer": "beef"
+    },
+    {
+      "Question": "牛乳",
+      "Narration": "gyuunyuu",
+      "Answer": "milk"
+    },
+    {
+      "Question": "魚介類",
+      "Narration": "gyokairui",
+      "Answer": "seafood"
+    },
+    {
+      "Question": "家畜",
+      "Narration": "kachiku",
+      "Answer": "livestock"
+    },
+    {
+      "Question": "家畜",
+      "Narration": "kachiku",
+      "Answer": "livestock"
+    },
+    {
+      "Question": "魚介類",
+      "Narration": "gyokairui",
+      "Answer": "seafood"
+    },
+    {
+      "Question": "野菜",
+      "Narration": "yasai",
+      "Answer": "vegetable"
+    },
+    {
+      "Question": "野原",
+      "Narration": "nohara",
+      "Answer": "field"
+    },
+    {
+      "Question": "家屋",
+      "Narration": "kaya",
+      "Answer": "house"
+    },
+    {
+      "Question": "家具",
+      "Narration": "kagu",
+      "Answer": "furniture"
+    },
+    {
+      "Question": "住家",
+      "Narration": "juukya",
+      "Answer": "household"
+    },
+    {
+      "Question": "植物",
+      "Narration": "shokubutsu",
+      "Answer": "plant"
+    },
+    {
+      "Question": "植物",
+      "Narration": "shokubutsu",
+      "Answer": "plant"
+    },
+    {
+      "Question": "果物",
+      "Narration": "kudamono",
+      "Answer": "fruit"
+    },
+    {
+      "Question": "実物",
+      "Narration": "jitsubutsu",
+      "Answer": "actual thing"
+    },
+    {
+      "Question": "食べ物",
+      "Narration": "tabemono",
+      "Answer": "food"
+    },
+    {
+      "Question": "飲み物",
+      "Narration": "nomimono",
+      "Answer": "drink"
+    },
+    {
+      "Question": "動物",
+      "Narration": "doubutsu",
+      "Answer": "animal"
+    },
+    {
+      "Question": "動物",
+      "Narration": "doubutsu",
+      "Answer": "animal"
+    },
+    {
+      "Question": "水族館",
+      "Narration": "suizokukan",
+      "Answer": "aquarium"
+    },
+    {
+      "Question": "動物園",
+      "Narration": "doubutsuen",
+      "Answer": "zoo"
+    },
+    {
+      "Question": "動物園",
+      "Narration": "doubutsuen",
+      "Answer": "zoo"
+    },
+    {
+      "Question": "鳥居",
+      "Narration": "torii",
+      "Answer": "Shinto shrine gate"
+    },
+    {
+      "Question": "鳥類",
+      "Narration": "chourui",
+      "Answer": "bird"
+    },
+    {
+      "Question": "家畜",
+      "Narration": "kachiku",
+      "Answer": "livestock"
+    },
+    {
+      "Question": "家畜",
+      "Narration": "kachiku",
+      "Answer": "livestock"
+    },
+    {
+      "Question": "魚介類",
+      "Narration": "gyokairui",
+      "Answer": "seafood"
+    },
+    {
+      "Question": "野菜",
+      "Narration": "yasai",
+      "Answer": "vegetable"
+    },
+    {
+      "Question": "野原",
+      "Narration": "nohara",
+      "Answer": "field"
+    },
+    {
+      "Question": "家屋",
+      "Narration": "kaya",
+      "Answer": "house"
+    },
+    {
+      "Question": "家具",
+      "Narration": "kagu",
+      "Answer": "furniture"
+    },
+    {
+      "Question": "住家",
+      "Narration": "juukya",
+      "Answer": "household"
+    },
+    {
+      "Question": "植物",
+      "Narration": "shokubutsu",
+      "Answer": "plant"
+    },
+    {
+      "Question": "植物",
+      "Narration": "shokubutsu",
+      "Answer": "plant"
+    },
+    {
+      "Question": "果物",
+      "Narration": "kudamono",
+      "Answer": "fruit"
+    },
+    {
+      "Question": "実物",
+      "Narration": "jitsubutsu",
+      "Answer": "actual thing"
+    },
+    {
+      "Question": "食べ物",
+      "Narration": "tabemono",
+      "Answer": "food"
+    },
+    {
+      "Question": "飲み物",
+      "Narration": "nomimono",
+      "Answer": "drink"
+    },
+    {
+      "Question": "動物",
+      "Narration": "doubutsu",
+      "Answer": "animal"
+    },
+    {
+      "Question": "動物",
+      "Narration": "doubutsu",
+      "Answer": "animal"
+    },
+    {
+      "Question": "水族館",
+      "Narration": "suizokukan",
+      "Answer": "aquarium"
+    },
+    {
+      "Question": "動物園",
+      "Narration": "doubutsuen",
+      "Answer": "zoo"
+    }
+  ]
+}
